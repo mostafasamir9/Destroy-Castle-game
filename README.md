@@ -21,4 +21,4 @@ down the castle to hit a target area inside.<br/>
 7. The player can fire as many shots as she likes to hit the goal. Each shot will
 leave a trail so that the player may better judge her next shot.<br/>
 ##Download The Game:
-You can download the game and play it by downloading [MD-gAIM.zip](MD%20gAIM.zip) file and extract it and click to the execution file
+You can download the game and play it by downloading [MD-gAIM.zip](https://github.com/MostafaAkrsh/Destroy-Castle-game/raw/main/MD%20gAIM.zip) file and extract it and click to the execution file
