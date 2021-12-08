@@ -3,7 +3,7 @@
 In this game, the player will be using a slingshot to fire projectiles at a castle, hoping
 to demolish it. Each castle will have a goal area that must be touched by the projectile
 to continue to the next level.
-##The Sequence of Events:
+## The Sequence of Events:
 1. When the player’s mouse pointer is in range of the slingshot, the slingshot
 should glow.<br/>
 2. If the player presses the left mouse button (numbered button 0 in Unity) down
@@ -20,5 +20,5 @@ slingshot.<br/>
 down the castle to hit a target area inside.<br/>
 7. The player can fire as many shots as she likes to hit the goal. Each shot will
 leave a trail so that the player may better judge her next shot.<br/>
-##Download The Game:
+## Download The Game:
 You can download the game and play it by downloading [MD-gAIM.zip](https://github.com/MostafaAkrsh/Destroy-Castle-game/raw/main/MD%20gAIM.zip) file and extract it and click to the execution file
